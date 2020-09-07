@@ -1,0 +1,69 @@
+body {
+    font-family: "Manrope", sans-serif;
+    font-size: 13px;
+  }
+
+.wrap {
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 450px;
+    display: flex;
+}
+
+.drawersimage {
+    
+}
+
+.drawers {
+    width: 100%;
+    height: auto;   
+}
+
+.avatar {
+    width: 100%;
+    max-width: 50px;
+    height: auto;
+    border-radius: 50%;  
+}
+
+.article {
+    padding-left: 50px;
+    padding-right: 100px;
+    color: hsl(217, 19%, 35%);
+    font-weight: 700;
+}
+
+p {
+    color: hsl(214, 17%, 51%);
+    font-weight: 700;
+}
+
+.social {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    margin-left: 170px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.avatarname {
+    color: hsl(217, 19%, 35%);
+    font-weight: 700;
+}
+
+.avatardate {
+    color: hsl(214, 17%, 51%);
+    font-weight: 700;
+}
+
+.image {
+    display: flex;
+}
